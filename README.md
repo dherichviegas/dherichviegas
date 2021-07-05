@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on SondaBR
-- 🌱 I’m currently learning HTML, CSS, JS and SQL
-- 📫 How to reach me: @dherichviegas
+- 🌱 I’m currently learning HTML, CSS, JavaScript and SQL
+- 📫 How to reach me: linkedin.com/in/dherichviegas
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dherichviegas" alt="dherichviegas" /> </p>
