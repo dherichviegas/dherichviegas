@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on SondaBR
-- 🌱 I’m currently learning HTML, CSS, JavaScript and SQL
-- 📫 How to reach me: linkedin.com/in/dherichviegas
+- 🌱 I’m currently learning: Robot Framework, Postman, JMeter, Python and Cypress
+- 👯 I’m looking to collaborate: Test Automatization
+- 💬 Ask me about: HTML, CSS, JavaScript and SQL
+- 📫 How to reach me: https://linkedin.com/in/dherichviegas
 
 <!--
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dherichviegas" alt="dherichviegas" /> </p>
